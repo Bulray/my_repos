@@ -25,11 +25,6 @@ a {
 
 /* Колонки */
 
-.row {
-    display: flex;
-
-
-}
 .col {
     flex: auto;
     margin-bottom: 24px;
